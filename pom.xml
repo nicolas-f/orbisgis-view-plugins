@@ -13,7 +13,8 @@
         <url>http://www.orbisgis.org</url>
         <modules>
                 <module>memory</module>
-        </modules>
+    <module>substance-osgi</module>
+  </modules>
         <properties>
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 <netbeans.hint.license>OrbisGIS</netbeans.hint.license>
